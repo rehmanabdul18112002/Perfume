@@ -1,0 +1,15 @@
+# Perfume Project Requirements
+
+This file contains the project requirements and specifications. Add your requirements here, and I can refer to them for development.
+
+## Example Requirements:
+- Create a web page for perfume listings
+- Add user authentication
+- Implement search functionality
+- Use responsive design
+
+## Technologies:
+- HTML/CSS/JavaScript
+- Possibly Python for backend
+
+Add more details as needed.
